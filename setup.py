@@ -58,7 +58,7 @@ distutils.core.setup(
     description="python excel template render",
     scripts=[],
     classifiers=[
-        'License :: OSI Approved :: MIT Software License',
+        'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',

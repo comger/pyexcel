@@ -3,7 +3,7 @@
     author comger@gmail.com
     example for excel template render
 """
-from excel_template import ExcelTemplate
+from pyexcel_render.excel_template import ExcelTemplate
 
 template = 'abc.xls'
 
